@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HunterGalloway-dev
+- 👀 Currently enrolled in The Ohio State University, looking to get some solid projects completed
+- 🌱 Firebase, Angular, and GoLang
+- 💞️ Web based products
+- 📫 huntergallowaydev@gmail.com
